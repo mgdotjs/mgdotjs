@@ -6,11 +6,11 @@ I'm a developer passionate about creating **human-centered products**. I focus o
 
 ## 🚀 About Me
 
-- 🔭 Currently working at **[Sefona](https://sefona.com.tr/en/)** - Building sustainable coffee community apps
-- 🌱 Exploring advanced **React Native** patterns and **performance optimization**
-- 💡 I see frontend development as a process of building experiences, not just writing code
-- 🎯 Combining technical development with design thinking and user needs
 - 📍 Based in Istanbul, Turkey
+- 🔭 Over 8 years of experience as a Front End Developer
+- 💡 I see frontend development as a process of building experiences, not just writing code
+- 🌱 Exploring advanced **React Native** patterns and **performance optimization**
+- 🎯 Combining technical development with design thinking and user needs
 
 ## 💻 Tech Stack
 
@@ -38,6 +38,11 @@ I'm a developer passionate about creating **human-centered products**. I focus o
 
 ## 🌟 Featured Projects
 
+### [Maglo Case](https://mgmaglo.netlify.app)
+Account wallet summary and history
+- Nextjs(16.0.7), Zustand, React Query, React Hook Form
+- Dark & Light modes
+
 ### [Sefona App](https://indir.sefona.link/app-store)
 Coffee shop discovery app with sustainability rewards system
 - React Native, Redux
@@ -56,10 +61,6 @@ Web3 projects including Exchange, Launchpad, and Accounts Centre
 Automotive after-sales service platform
 - React Native, Adobe XD
 - UI/UX Design & Development
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgdotjs&show_icons=true&theme=dark)
 
 ## 🎨 Interests
 
